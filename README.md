@@ -1,4 +1,4 @@
-## SQL Server Exercise 
+## SQL Server -  Exercise 
 
 ### Select Queries, Group By, Order By Clause
 
